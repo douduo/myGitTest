@@ -11,4 +11,4 @@ let's try try?
 create a branch for DEV
 
 
-create a branch for newDEV & master
+create a branch for DEV
