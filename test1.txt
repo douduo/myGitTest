@@ -2,7 +2,7 @@ helGODlo test1
 I am edit once
 i am edit twice
 i am edit third
-oh text2 is coming
+oh text2 is coming   bug fixed
 
 what is diff?
 let's try try?
